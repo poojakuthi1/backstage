@@ -1,5 +1,24 @@
 # @backstage/plugin-github-actions
 
+## 0.6.0
+
+### Minor Changes
+
+- 96e1004e2a02: Added support GitHub Enterprise hosted repositories.
+
+  **BREAKING**: The `GithubActionsClient` is updated to take an `scmAuthApi` instead of the previous `githubAuthApi`. This does not require any code changes unless you construct your own `GithubActionsClient`
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.7.0
+  - @backstage/integration@1.4.5
+  - @backstage/catalog-model@1.3.0
+  - @backstage/core-components@0.13.1
+  - @backstage/core-plugin-api@1.5.1
+  - @backstage/integration-react@1.1.13
+  - @backstage/theme@0.3.0
+
 ## 0.5.18
 
 ### Patch Changes

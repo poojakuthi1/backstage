@@ -1,5 +1,18 @@
 # @backstage/plugin-pagerduty
 
+## 0.5.12
+
+### Patch Changes
+
+- 3d11596a72b5: Update plugin installation docs to be more consistent across documentations
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.7.0
+  - @backstage/catalog-model@1.3.0
+  - @backstage/core-components@0.13.1
+  - @backstage/core-plugin-api@1.5.1
+  - @backstage/errors@1.1.5
+  - @backstage/theme@0.3.0
+
 ## 0.5.11
 
 ### Patch Changes

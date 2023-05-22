@@ -1,5 +1,57 @@
 # example-backend
 
+## 0.2.84
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-client@1.4.2
+  - @backstage/plugin-scaffolder-backend@1.14.1
+  - @backstage/plugin-linguist-backend@0.3.0
+  - @backstage/plugin-devtools-backend@0.1.1
+  - @backstage/plugin-adr-backend@0.3.4
+  - @backstage/plugin-auth-backend@0.18.4
+  - @backstage/plugin-badges-backend@0.2.1
+  - @backstage/plugin-catalog-backend@1.9.2
+  - @backstage/plugin-catalog-node@1.3.7
+  - @backstage/plugin-code-coverage-backend@0.2.12
+  - @backstage/plugin-entity-feedback-backend@0.1.4
+  - @backstage/plugin-jenkins-backend@0.2.1
+  - @backstage/plugin-kubernetes-backend@0.11.1
+  - @backstage/plugin-lighthouse-backend@0.2.2
+  - @backstage/plugin-playlist-backend@0.3.2
+  - @backstage/plugin-tech-insights-backend@0.5.12
+  - @backstage/plugin-techdocs-backend@1.6.3
+  - @backstage/plugin-todo-backend@0.1.43
+  - example-app@0.2.84
+  - @backstage/plugin-scaffolder-backend-module-rails@0.4.15
+  - @backstage/backend-common@0.18.6
+  - @backstage/integration@1.4.5
+  - @backstage/plugin-app-backend@0.3.46
+  - @backstage/plugin-explore-backend@0.0.8
+  - @backstage/backend-tasks@0.5.3
+  - @backstage/plugin-auth-node@0.2.15
+  - @backstage/plugin-azure-devops-backend@0.3.25
+  - @backstage/plugin-azure-sites-backend@0.1.8
+  - @backstage/plugin-events-backend@0.2.7
+  - @backstage/plugin-graphql-backend@0.1.36
+  - @backstage/plugin-kafka-backend@0.2.39
+  - @backstage/plugin-permission-backend@0.5.21
+  - @backstage/plugin-permission-node@0.7.9
+  - @backstage/plugin-proxy-backend@0.2.40
+  - @backstage/plugin-rollbar-backend@0.1.43
+  - @backstage/plugin-search-backend@1.3.2
+  - @backstage/plugin-search-backend-module-elasticsearch@1.3.1
+  - @backstage/plugin-search-backend-module-pg@0.5.7
+  - @backstage/plugin-search-backend-node@1.2.2
+  - @backstage/plugin-tech-insights-backend-module-jsonfc@0.1.30
+  - @backstage/plugin-tech-insights-node@0.4.4
+  - @backstage/catalog-model@1.3.0
+  - @backstage/config@1.0.7
+  - @backstage/plugin-events-node@0.2.7
+  - @backstage/plugin-permission-common@0.7.5
+  - @backstage/plugin-search-common@1.2.3
+
 ## 0.2.83
 
 ### Patch Changes

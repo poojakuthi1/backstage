@@ -1,5 +1,17 @@
 # @backstage/plugin-octopus-deploy
 
+## 0.2.1
+
+### Patch Changes
+
+- 944a8ac6fcc0: Improved getting started documentation
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.7.0
+  - @backstage/catalog-model@1.3.0
+  - @backstage/core-components@0.13.1
+  - @backstage/core-plugin-api@1.5.1
+  - @backstage/theme@0.3.0
+
 ## 0.2.0
 
 ### Minor Changes

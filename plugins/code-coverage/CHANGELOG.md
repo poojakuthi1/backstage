@@ -1,5 +1,18 @@
 # @backstage/plugin-code-coverage
 
+## 0.2.12
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.7.0
+  - @backstage/catalog-model@1.3.0
+  - @backstage/config@1.0.7
+  - @backstage/core-components@0.13.1
+  - @backstage/core-plugin-api@1.5.1
+  - @backstage/errors@1.1.5
+  - @backstage/theme@0.3.0
+
 ## 0.2.11
 
 ### Patch Changes
